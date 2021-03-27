@@ -22,7 +22,6 @@ This is a solution to the [Single priced grid component challenge on Frontend Me
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
-
 ## Author
 - Frontend Mentor - [@Nahuel-P](https://www.frontendmentor.io/profile/Nahuel-P)
 - Twitter - [@Nahuel__P](https://twitter.com/Nahuel__P)
